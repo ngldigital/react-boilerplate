@@ -5,10 +5,16 @@ const Others = () => {
     <div>
       <h1>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum ipsa
-        suscipit distinctio laborum beatae aspernatur possimus impedit optio,
+        suscipit laborum beatae aspernatur possimus impedit optio,
         consequatur eos voluptatum blanditiis maiores dolores qui, ad fugiat
         saepe ut omnis.
       </h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod possimus
+        sapiente optio itaque adipisci veritatis, nam laboriosam rerum
+        voluptatem accusamus, nemo, libero impedit eligendi vero iste! Illum
+        omnis dolore odio?
+      </p>
     </div>
   );
 };
